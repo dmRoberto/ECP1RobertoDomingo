@@ -22,5 +22,7 @@ public class App
         System.out.println( "Cambio Seis" );
         System.out.println( "Cambio Siete" );
 
+        System.out.println( "FixBug Cambio Realease Tres" );
+        System.out.println( "FixBug Cambio Realease Cuatro" );
     }
 }
